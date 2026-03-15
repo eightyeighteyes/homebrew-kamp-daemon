@@ -11,8 +11,8 @@
 class TuneShifter < Formula
   desc "Automated audio library ingest daemon for Bandcamp downloads"
   homepage "https://github.com/eightyeighteyes/tune-shifter"
-  url "https://github.com/eightyeighteyes/tune-shifter/releases/download/v0.2.3/tune_shifter-0.2.3.tar.gz"
-  sha256 "0a2e0257c8f3b4e66c6d357e95e2c65de782d1535169a7943dfe4a9a8685f1ae"
+  url "https://github.com/eightyeighteyes/tune-shifter/releases/download/v0.3.0/tune_shifter-0.3.0.tar.gz"
+  sha256 "fffda51a0acd8ad789c3c903f3c4accfb614c862d13102a23726b1666b5d004f"
   license "GPL-3.0-only"
 
   depends_on "python@3.11"
